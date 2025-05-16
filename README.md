@@ -2,4 +2,4 @@
 
 ## Instructions
 1. Please use the docker file directly on your machine to generate a docker image and run the instance.
-2. Additionally, specify node-id while launching the docker container.
+2. Additionally, specify node-id as `NODE_IDENTIFIER` while launching the docker container.
